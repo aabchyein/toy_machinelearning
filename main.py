@@ -65,5 +65,3 @@ def mlmodelwithregression(data:dict) :
     # 예측값 리턴
     result = {'result_mean':str(result_predict[0])}
     return result
-
-## 최종 수정
