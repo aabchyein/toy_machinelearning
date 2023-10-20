@@ -10,7 +10,7 @@
 <br>
 
 ## 📝기술스택
-- PYTHON / VISUAL STUDIO CODE / POSTMAN / ANACONDA / GITHUB
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1697780462170?alt=media&token=77a05373-4b02-40fb-a33d-764ff930c9e3)](https://github.com/msdio/stackticon)
 <br>
 
 ## 🔬 분석 목적
