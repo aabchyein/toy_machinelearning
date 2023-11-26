@@ -9,8 +9,29 @@
 - 김동현 : 데이터 전처리, 프론트엔드
 <br>
 
-## 📝기술스택
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1697780462170?alt=media&token=77a05373-4b02-40fb-a33d-764ff930c9e3)](https://github.com/msdio/stackticon)
+## ⭐️머신러닝 서비스
+- html 화면
+![image](https://github.com/dancingKimDH/toy_machinelearning/assets/132973368/7f5ac0ae-fe88-4c49-97f3-1e2fa3498ce2)
+
+- 값 입력 후 결과 출력
+![image](https://github.com/dancingKimDH/toy_machinelearning/assets/132973368/963e7436-57a3-441b-85ce-add6aeb754fe)
+<br>
+
+## 🔎 분석 결과
+- 전처리 후의 f1-score를 보면 높은 정확도로 모델이 예측을 매우 잘 수행했다고 생각할 수 있으나 1.0이라는 수치가 나온 건 의심해볼만함.
+- 전처리 전의 값
+
+|  |precision|recall|f1-score|support|
+|--|---------|------|--------|-------|
+|0 |0.94|1.00|0.97|516|
+|1 |1.00|0.03|0.05|36|
+
+- 전처리 후의 값
+
+|  |precision|recall|f1-score|support|
+|--|---------|------|--------|-------|
+|0 |0.99|1.00|1.00|131|
+|1 |1.00|0.99|1.00|169|
 <br>
 
 ## 🔬 분석 목적
@@ -32,29 +53,8 @@
 |수술시간|환자의 수술시간|연속형|수술시간에 따라 수술실패여부가 달라지는지 확인하고자 함|
 <br>
 
-## 🔎 분석 결과
-- 전처리 후의 f1-score를 보면 높은 정확도로 모델이 예측을 매우 잘 수행했다고 생각할 수 있으나 1.0이라는 수치가 나온 건 의심해볼만함.
-- 전처리 전의 값
-
-|  |precision|recall|f1-score|support|
-|--|---------|------|--------|-------|
-|0 |0.94|1.00|0.97|516|
-|1 |1.00|0.03|0.05|36|
-
-- 전처리 후의 값
-
-|  |precision|recall|f1-score|support|
-|--|---------|------|--------|-------|
-|0 |0.99|1.00|1.00|131|
-|1 |1.00|0.99|1.00|169|
-<br>
-
-## ⭐️머신러닝 서비스
-- html 화면
-![image](https://github.com/dancingKimDH/toy_machinelearning/assets/132973368/7f5ac0ae-fe88-4c49-97f3-1e2fa3498ce2)
-
-- 값 입력 후 결과 출력
-![image](https://github.com/dancingKimDH/toy_machinelearning/assets/132973368/963e7436-57a3-441b-85ce-add6aeb754fe)
+## 📝기술스택
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1697780462170?alt=media&token=77a05373-4b02-40fb-a33d-764ff930c9e3)](https://github.com/msdio/stackticon)
 <br>
 
 ## 💜느낀점
